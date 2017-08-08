@@ -1,4 +1,4 @@
-Tuesday. Week 1.
+Day Two. Tuesday Week 1.
 
 Today we continue the mission and learn more about Data Structures.
 
