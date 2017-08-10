@@ -1,0 +1,18 @@
+print ('Prime Numbers')
+
+def testprime():
+	testnumber = input ("Enter a number for testing: ")
+	testnumber = int(testnumber)
+	primeremainder = 1
+	i = 1
+	
+	while primeremainder != 0:
+			i += 1
+			primeremainder = testnumber % i
+			print (i,primeremainder)
+			if i == testnumber:
+				print ("This is a prime Number")
+	print ("Not a prime Number.")
+
+testprime()
+
